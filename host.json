@@ -1,0 +1,9 @@
+{
+  "name": "host",
+  "description": "My yt-dlp Native Messaging Host",
+  "path": "C:\\Users\\waler\\PycharmProjects\\yt-downloader\\run_host.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://cjjihfcmkmhgdmjgngeolmkgjijomged/"
+  ]
+}

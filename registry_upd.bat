@@ -1,0 +1,1 @@
+REG ADD "HKCU\Software\Google\Chrome\NativeMessagingHosts\host" /ve /t REG_SZ /d "C:\полный\путь\к\host.json" /f
